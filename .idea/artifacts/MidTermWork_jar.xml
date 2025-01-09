@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MidTermWork:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MidTermWork_jar</output-path>
+    <root id="archive" name="MidTermWork.jar">
+      <element id="module-output" name="MidTermWork" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../commons-csv-1.9.0/commons-csv-1.9.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/CodingTool/sqljdbc_12.8/cht/jars/mssql-jdbc-12.8.1.jre11.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
